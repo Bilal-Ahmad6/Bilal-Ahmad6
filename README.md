@@ -74,5 +74,5 @@
 
 <!-- Snake Animation (Dark Theme Recommended) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bilal-Ahmad6/Bilal-Ahmad6/output/github-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Bilal-Ahmad6/Bilal-Ahmad6/output/github-snake.svg" alt="snake animation" />
 </p>
